@@ -1,1 +1,1 @@
-My first stuff on Ubuntu
+God word
