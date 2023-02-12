@@ -1,1 +1,1 @@
-God word
+This file is mandatory in projects
